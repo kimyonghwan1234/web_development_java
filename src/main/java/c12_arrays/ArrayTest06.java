@@ -32,7 +32,8 @@ public class ArrayTest06 {
             System.out.println();
         }
         //1.git add.
-        //2.git commit -m
+        //git status->선택사항
+        //2.git commit -m "원하는 변경 제목"
         //3.git push
         //깃허브에 올리는 방법
 
